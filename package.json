@@ -1,0 +1,15 @@
+{
+	"name"         : "node-guzzle",
+	"version"      : "0.0.1",
+	"description"  : "Scrape sites for their catalogues, turn them into images and upload to directory",
+	"main"         : "server.js",
+	"author"       : "HendricksK",
+		"dependencies" : {
+		"express"    : "latest",
+		"request"    : "latest",
+		"pdf2img"    : "latest",
+		"cheerio"    : "latest",
+		"nodemon"    : "latest"
+		}		
+}
+
